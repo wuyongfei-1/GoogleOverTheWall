@@ -1,2 +1,2 @@
-# GoogleOverTheWall
-❤️谷歌翻墙插件
+# ❤️GoogleOverTheWall
+谷歌翻墙插件
